@@ -21,6 +21,3 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
-ANIMAL1 = input()
-
-print("On the news today, warned of a heavy ANIMAL1 rain for the entire week")
