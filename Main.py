@@ -1,5 +1,5 @@
 #############################################
-# Name: Your name
+# Name: Gavin  Tibayan
 # Class: ICS3C
 # Date: Friday Sept 18
 # Project Name: MadLibs
