@@ -21,3 +21,9 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
+print("Type in a Plural Noun")
+PLURALNOUN1 = input()
+print("Now type in a Adjective")
+ADJECTIVE1 = input()
+
+print("A recent survey informs us that one out of every PLURALNOUN1 owns a/an ADJECTIVE1 phone.")
