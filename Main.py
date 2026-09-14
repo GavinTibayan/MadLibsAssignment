@@ -21,11 +21,3 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
-PLURALNOUN1 = input()
-BODYPART1 = input()
-PLURALNOUN2 = input()
-PLURALNOUN3 = input()
-PlURALNOUN4 = input()
-PLURALNOUN5 = input()
-BODYPART2 = input()
-print ("A recent survey informs us that one out of every PLURALNOUN1 owns a/an ADJECTIVE1 phone.")
